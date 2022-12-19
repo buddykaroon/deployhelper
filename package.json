@@ -18,6 +18,16 @@
       {
         "command": "deployhelper.helloWorld",
         "title": "Hello World"
+      },
+      
+      
+      {
+        "command": "deployhelper.loadFile",
+        "title": "Load File"
+      },
+      {
+        "command": "deployhelper.openWindow",
+        "title": "Open Window"
       }
     ]
   },
